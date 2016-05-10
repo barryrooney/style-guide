@@ -50,7 +50,7 @@ min-width: 200px;
     
 #black {
     background-color: #000000;
-    height: 60px;
+    height: 300px;
     padding-top: 3em;
     padding-bottom: em;
     }
@@ -82,7 +82,7 @@ height: 440px;
 /* --------------- BUTTONS ---------------- */
 
 
-.button {margin-top: 4em;
+.button {margin-top: 2em;
 margin-bottom: 4em;}
 
 
@@ -206,6 +206,8 @@ nav a:hover {
 
 
 /*---------------- IMAGES-----------------*/
+
+.title {margin-top: 5em;}
 
 img {
     display: block;
